@@ -1,4 +1,4 @@
-# tiktok_registrater
+# TikTok AutoRegistration
 Autoregister tiktok accounts, works via WEB. 
 There is an opportunity to upload video.
 
